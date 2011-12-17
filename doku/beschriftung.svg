@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;">
+      <path
+         id="path3696"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3672"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="305.87133"
+     inkscape:cy="838.81042"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1497"
+     inkscape:window-height="878"
+     inkscape:window-x="95"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="12.90187"
+       x="15.682084"
+       id="image2826"
+       height="537.5105"
+       width="716.27893"
+       xlink:href="file:///C:/Users/Joachim%20Fenkes/Desktop/shack/inkscape_pasted_image_20110216_212049.png" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="M 85 30.21875 C 73.92 30.21875 65 39.13875 65 50.21875 L 65 80.9375 C 65 92.0175 73.92 100.9375 85 100.9375 L 234.125 100.9375 L 257.5 237.3125 L 257.65625 238.40625 L 258.375 239.25 L 277.96875 262.34375 C 276.13483 263.24358 274.12117 263.82249 272 263.96875 L 286.15625 271.96875 L 286.25 272.09375 L 286.28125 272.0625 L 296.3125 277.71875 L 292.34375 266.90625 L 286.71875 251.5 C 286.1999 253.57481 285.28197 255.48982 284.09375 257.15625 L 265.1875 234.90625 L 244.75 115.59375 L 267.4375 119.71875 C 266.59109 121.58724 265.39646 123.31562 263.84375 124.78125 L 279.875 121.96875 L 280 122 L 280 121.96875 L 291.375 119.96875 L 267.28125 105.78125 C 268.20464 107.72915 268.70904 109.81689 268.84375 111.875 L 243.3125 107.21875 L 242.25 100.9375 L 250.71875 100.9375 C 261.79875 100.9375 270.71875 92.0175 270.71875 80.9375 L 270.71875 50.21875 C 270.71875 39.13875 261.79875 30.21875 250.71875 30.21875 L 85 30.21875 z "
+       id="path2886"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.0686264px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="81.740997"
+       y="57.909359"
+       id="text2832"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13"><tspan
+         sodipodi:role="line"
+         id="tspan2834"
+         x="81.740997"
+         y="57.909359"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face">74HC164 Shift Register</tspan><tspan
+         sodipodi:role="line"
+         x="81.740997"
+         y="80.49514"
+         id="tspan2836"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face">[Column Control]</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 453.5625 45.21875 C 442.4825 45.21875 433.5625 54.13875 433.5625 65.21875 L 433.5625 95.9375 C 433.5625 103.83899 438.129 110.6221 444.75 113.875 L 420.71875 146.8125 C 419.41386 145.24213 418.39062 143.43252 417.75 141.40625 L 413.3125 157 L 413.1875 157.15625 L 413.25 157.1875 L 410.09375 168.28125 L 419.65625 161.875 L 433.3125 152.75 C 431.16223 152.7335 429.09513 152.33342 427.1875 151.5625 L 453.15625 115.9375 C 453.29186 115.94019 453.42622 115.9375 453.5625 115.9375 L 619.28125 115.9375 C 630.36125 115.9375 639.28125 107.0175 639.28125 95.9375 L 639.28125 65.21875 C 639.28125 54.13875 630.36125 45.21875 619.28125 45.21875 L 453.5625 45.21875 z "
+       id="rect2846"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13" />
+    <text
+       id="text2848"
+       y="72.909363"
+       x="450.31244"
+       style="font-size:18.0686264px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13"><tspan
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face"
+         id="tspan2852"
+         y="72.909363"
+         x="450.31244"
+         sodipodi:role="line">ATmega168</tspan><tspan
+         id="tspan2876"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face"
+         y="95.49514"
+         x="450.31244"
+         sodipodi:role="line">[Central Control, duh!]</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 481.125 397.375 C 470.52843 397.90868 462.15625 406.64125 462.15625 417.375 L 462.15625 421.15625 L 423.375 411.53125 C 424.33549 409.73453 425.61947 408.10561 427.25 406.75 L 411.1875 408.53125 L 410.96875 408.46875 L 410.9375 408.5625 L 399.5 409.8125 L 409.03125 416.25 L 422.625 425.46875 C 421.82588 423.46625 421.4423 421.37536 421.4375 419.3125 L 462.15625 429.40625 L 462.15625 448.0625 C 462.15625 459.1425 471.07625 468.0625 482.15625 468.0625 L 647.84375 468.0625 C 658.92375 468.0625 667.84375 459.1425 667.84375 448.0625 L 667.84375 417.375 C 667.84375 406.295 658.92375 397.375 647.84375 397.375 L 482.15625 397.375 C 481.81 397.375 481.46682 397.35778 481.125 397.375 z "
+       id="rect2856"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.0686264px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="478.88385"
+       y="425.05222"
+       id="text2858"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13"><tspan
+         sodipodi:role="line"
+         x="478.88385"
+         y="425.05222"
+         id="tspan2862"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face">TLC5940 16x PWM</tspan><tspan
+         id="tspan2880"
+         sodipodi:role="line"
+         x="478.88385"
+         y="447.638"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face">[Row Ctl &amp; Driver]</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 223.28125 253.34375 C 186.25161 253.34375 155.40625 277.46275 155.40625 308.25 C 155.40625 324.30956 163.8088 338.54708 177.09375 348.5 L 153.375 379.5 L 53.5625 379.5 C 42.4825 379.5 33.5625 388.42 33.5625 399.5 L 33.5625 430.21875 C 33.5625 441.29875 42.4825 450.21875 53.5625 450.21875 L 219.28125 450.21875 C 230.36125 450.21875 239.28125 441.29875 239.28125 430.21875 L 239.28125 399.5 C 239.28125 388.42 230.36125 379.5 219.28125 379.5 L 162.71875 379.5 L 183.3125 352.625 C 194.58234 359.25686 208.43105 363.15625 223.28125 363.15625 C 260.31089 363.15625 291.125 339.03725 291.125 308.25 C 291.125 277.46275 260.31089 253.34375 223.28125 253.34375 z M 223.28125 260.8125 C 257.10061 260.8125 283.65625 282.5049 283.65625 308.25 C 283.65625 333.9951 257.10061 355.71875 223.28125 355.71875 C 189.46189 355.71875 162.84375 333.9951 162.84375 308.25 C 162.84375 282.5049 189.46189 260.8125 223.28125 260.8125 z "
+       id="rect2866"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13" />
+    <text
+       id="text2868"
+       y="407.19507"
+       x="50.312424"
+       style="font-size:18.0686264px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Joachim Fenkes\Desktop\shack\plasma\path2886.png"
+       inkscape:export-xdpi="1000.13"
+       inkscape:export-ydpi="1000.13"><tspan
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face"
+         id="tspan2872"
+         y="407.19507"
+         x="50.312424"
+         sodipodi:role="line">P-FETs</tspan><tspan
+         id="tspan2884"
+         style="font-family:Baskerville Old Face;-inkscape-font-specification:Baskerville Old Face"
+         y="429.78085"
+         x="50.312424"
+         sodipodi:role="line">[Column Drivers]</tspan></text>
+  </g>
+</svg>

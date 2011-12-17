@@ -1,0 +1,12 @@
+A 16x16 LED matrix displaying a nice plasma effect.
+
+Uses TI's TLC5940 to drive the LEDs of a column, and
+shift registers combined with pFETs to select one of
+the 16 columns at a time for scanning the matrix.
+
+An ATmega168 is used to control everything.
+
+Subdirectories:
+  controller  - Eagle files for the controller board
+  doku        - Some descriptive images
+  firmware    - Arduino-based firmware for the ATmega168
